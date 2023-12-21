@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'PowerAI',
-  description: 'AI Platform',
+  description: 'AI Platform', 
 }
 
 export default function RootLayout({
