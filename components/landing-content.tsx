@@ -46,7 +46,7 @@ export const LandingContent = () => {
                                 </div>
                             </CardTitle>
                             <CardContent className="pt-4 px-0">
-                                {item.description}  
+                                {item.description}    
                             </CardContent>  
                         </CardHeader>
                     </Card>
